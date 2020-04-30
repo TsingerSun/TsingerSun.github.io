@@ -1,0 +1,74 @@
+﻿html {
+  font-size: 20px;
+}
+
+.div1_body {
+  background-color: rgba(244, 168, 168, 0.5);
+  padding: 6px 50px;
+  margin: 45px 60px;
+  width=50% ;
+
+}
+
+.div1_h1 {
+  margin: 0 auto;
+  padding: 0px 0px;    
+  color: black;
+  background-color: rgba(222, 237, 63, 0.7);
+  text-shadow: 10px 10px 5px rgba(57, 10, 244, 0.6);
+  font-size: 30px;
+  width: 500px;
+  align: center;
+}
+
+.div1_intro {
+  margin: 25px 0px;
+  padding: 3px 35px;
+  width: 40%;
+ 
+  background-color: rgba(243, 144, 235, 0.78);
+}
+
+.div1_music {
+  margin: 25px 0px;
+  padding: 3px 35px;
+  width: 56%;
+
+  float: left;
+  background-color: rgba(241, 180, 95, 0.78);
+}
+
+.div1_dance {
+  margin: 25px 0px;
+  padding: 3px 35px;
+  width: 40%;
+  height: 300px;
+  float: right;
+  background-color: rgba(63, 222, 237, 0.78);
+}
+
+.clear {
+  clear: both;
+}
+
+
+h2 {
+  margin: 10px 0px;
+  padding: 0px 0px;
+  font-size: 35px;
+  font-weight: 900;
+}
+
+
+
+p {
+  margin: 0px 0px;
+  padding: 0px 0px;
+  font-weight: 600;
+  color: black;
+}
+
+.photo {
+  float:right
+  width:50%
+}
